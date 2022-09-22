@@ -32,6 +32,9 @@ HTTP APIをサポートしていないリージョンがある(大阪とか)。
 AWSコンソールのスタックのリソースの AWS::ApiGatewayV2::Api からのリンクが壊れている。
 Lambdaのほうから回れば行ける。
 
+レスポンスのContent-Typeが text/plain 。REST APIのほうはMIMEがJSONだったような気がする。
+
+
 
 # 参考リンク
 
