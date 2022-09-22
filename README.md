@@ -29,6 +29,9 @@ HelloWorldFunction may not have authorization defined, Is this okay? [y/N]:
 
 HTTP APIをサポートしていないリージョンがある(大阪とか)。
 
+AWSコンソールのスタックのリソースの AWS::ApiGatewayV2::Api からのリンクが壊れている。
+Lambdaのほうから回れば行ける。
+
 
 # 参考リンク
 
